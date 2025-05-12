@@ -23,4 +23,5 @@ This is a simple **CRUD (Create, Read, Update, Delete)** API built with **Django
 ---
 
 ## 📂 Project Structure
+![Image](https://github.com/user-attachments/assets/ea4d1261-af69-4f58-b052-17049cdc9105)
 
