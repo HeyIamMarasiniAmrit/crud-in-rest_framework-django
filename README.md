@@ -2,8 +2,6 @@
 
 This is a simple **CRUD (Create, Read, Update, Delete)** API built with **Django REST Framework**. It's designed to demonstrate how to build RESTful APIs using Django.
 
----
-
 ## 🚀 Features
 
 - ✅ Create, Read, Update, Delete operations
@@ -12,15 +10,11 @@ This is a simple **CRUD (Create, Read, Update, Delete)** API built with **Django
 - 🗃️ SQLite3 Database (default)
 - 🌐 Browsable API using DRF's built-in UI
 
----
-
 ## 📦 Tech Stack
 
 - Python 3.x  
 - Django  
 - Django REST Framework
-
----
 
 ## 📂 Project Structure
 ![Image](https://github.com/user-attachments/assets/ea4d1261-af69-4f58-b052-17049cdc9105)
